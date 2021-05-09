@@ -31,3 +31,4 @@ Finally, the pickle models and the keras model are imported in the "main.py" fil
 
 For both versions, all the messages are fed into their respective model and predicted. If the prediction meets or exceeds their threshold, then the "score" of a user goes up. When this score is much bigger than the average for the server, then the bot sends a message with some resources for help.
 
+Both versions are logged into the bot using the same token, so that both are running at the same time.
