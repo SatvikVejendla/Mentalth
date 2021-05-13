@@ -2,7 +2,7 @@
 
 A Mental Health Discord bot which is meant to help provide support to those having negative thoughts. This bot keeps track of depressional, suicidal, and cyberbullying messages from users or to users.
 
-Originally created as my hackathon submission for Mercerhacks. Ended up winning 1st place in "Best Wellness/Health Hack" and 2nd place in "Best Hack Overall".
+Originally created as my hackathon submission for Mercerhacks. Ended up winning 1st place in "Best Wellness/Health Hack" and 2nd place in "Most Creative".
 
 ## Structure
 
