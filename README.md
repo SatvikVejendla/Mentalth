@@ -2,7 +2,7 @@
 
 A Mental Health Discord bot which is meant to help provide support to those having negative thoughts. This bot keeps track of depressional, suicidal, and cyberbullying messages from users or to users.
 
-Originally created as my hackathon submission for Mercerhacks. Ended up winning 1st place in "Best Wellness/Health Hack" and 2nd place in "Most Creative".
+Originally created in May 2021 as my hackathon submission for Mercerhacks. Ended up winning 1st place in "Best Wellness/Health Hack" and 2nd place in "Most Creative".
 
 ## Structure
 
@@ -34,3 +34,10 @@ Finally, the pickle models and the keras model are imported in the "main.py" fil
 For both versions, all the messages are fed into their respective model and predicted. If the prediction meets or exceeds their threshold, then the "score" of a user goes up. When this score is much bigger than the average for the server, then the bot sends a message with some resources for help.
 
 Both versions are logged into the bot using the same token, so that both are running at the same time.
+
+
+### Screenshots
+
+![](./images/mhbot1.png)
+
+![](./images/mhbot2.png)
